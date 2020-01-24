@@ -1,0 +1,1908 @@
+{
+  "Networks" : {
+    "10000" : {
+      "Coordinate" : {
+        "Latitude" : "49.18765425",
+        "Longitude" : "-122.84901694"
+      },
+      "Password" : "",
+      "SSID" : "10000"
+    },
+    "820110" : {
+      "Coordinate" : {
+        "Latitude" : "49.18765425",
+        "Longitude" : "-122.84901694"
+      },
+      "Password" : "",
+      "SSID" : "820110"
+    },
+    "524EC3" : {
+      "Coordinate" : {
+        "Latitude" : "49.24021515",
+        "Longitude" : "-123.03123482"
+      },
+      "Password" : "",
+      "SSID" : "524EC3"
+    },
+    "7E239F" : {
+      "Coordinate" : {
+        "Latitude" : "49.24021515",
+        "Longitude" : "-123.03123482"
+      },
+      "Password" : "",
+      "SSID" : "7E239F"
+    },
+    "940ADE" : {
+      "Coordinate" : {
+        "Latitude" : "49.26123315",
+        "Longitude" : "-123.24680719"
+      },
+      "Password" : "",
+      "SSID" : "940ADE"
+    },
+    "AIRSHOT2015317" : {
+      "Coordinate" : {
+        "Latitude" : "49.26190159",
+        "Longitude" : "-123.24587218"
+      },
+      "Password" : "",
+      "SSID" : "AIRSHOT2015317"
+    },
+    "ASUS_5G" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "ASUS_5G"
+    },
+    "AX_Guest" : {
+      "Coordinate" : {
+        "Latitude" : "49.26139773",
+        "Longitude" : "-123.24657617"
+      },
+      "Password" : "",
+      "SSID" : "AX_Guest"
+    },
+    "AX_Office" : {
+      "Coordinate" : {
+        "Latitude" : "49.26139773",
+        "Longitude" : "-123.24657617"
+      },
+      "Password" : "",
+      "SSID" : "AX_Office"
+    },
+    "Amazon-LXC" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622596",
+        "Longitude" : "-123.2451784"
+      },
+      "Password" : "",
+      "SSID" : "Amazon-LXC"
+    },
+    "BCIT_Connect" : {
+      "Coordinate" : {
+        "Latitude" : "49.2515364",
+        "Longitude" : "-123.001743"
+      },
+      "Password" : "",
+      "SSID" : "BCIT_Connect"
+    },
+    "BCIT_Secure" : {
+      "Coordinate" : {
+        "Latitude" : "49.2515364",
+        "Longitude" : "-123.001743"
+      },
+      "Password" : "",
+      "SSID" : "BCIT_Secure"
+    },
+    "C&Cí¤ì´ìí¸" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "C&C�D�"
+    },
+    "CCB-Work" : {
+      "Coordinate" : {
+        "Latitude" : "49.18699265",
+        "Longitude" : "-122.84861042"
+      },
+      "Password" : "",
+      "SSID" : "CCB-Work"
+    },
+    "CCB-Work-5GHz" : {
+      "Coordinate" : {
+        "Latitude" : "49.1901626",
+        "Longitude" : "-122.8497555"
+      },
+      "Password" : "",
+      "SSID" : "CCB-Work-5GHz"
+    },
+    "Cafe Wi-Fi" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622863",
+        "Longitude" : "-123.2452885"
+      },
+      "Password" : "",
+      "SSID" : "Cafe Wi-Fi"
+    },
+    "Chester" : {
+      "Coordinate" : {
+        "Latitude" : "49.261944248243346",
+        "Longitude" : "-122.75503094611544"
+      },
+      "Password" : "",
+      "SSID" : "Chester"
+    },
+    "Chow Fam" : {
+      "Coordinate" : {
+        "Latitude" : "49.24021515",
+        "Longitude" : "-123.03123482"
+      },
+      "Password" : "",
+      "SSID" : "Chow Fam"
+    },
+    "Chow Fam 5G" : {
+      "Coordinate" : {
+        "Latitude" : "49.24021515",
+        "Longitude" : "-123.03123482"
+      },
+      "Password" : "",
+      "SSID" : "Chow Fam 5G"
+    },
+    "Cozmo_319EBA" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622672",
+        "Longitude" : "-123.2451892"
+      },
+      "Password" : "",
+      "SSID" : "Cozmo_319EBA"
+    },
+    "DESKTOP-RQAC8I0 1165" : {
+      "Coordinate" : {
+        "Latitude" : "49.18699265",
+        "Longitude" : "-122.84861042"
+      },
+      "Password" : "",
+      "SSID" : "DESKTOP-RQAC8I0 1165"
+    },
+    "DHH_Faster" : {
+      "Coordinate" : {
+        "Latitude" : "49.18699265",
+        "Longitude" : "-122.84861042"
+      },
+      "Password" : "",
+      "SSID" : "DHH_Faster"
+    },
+    "DIRECT-02-HP M402 LaserJet" : {
+      "Coordinate" : {
+        "Latitude" : "49.2515364",
+        "Longitude" : "-123.001743"
+      },
+      "Password" : "",
+      "SSID" : "DIRECT-02-HP M402 LaserJet"
+    },
+    "DIRECT-22-HP OfficeJet Pro 8710" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "DIRECT-22-HP OfficeJet Pro 8710"
+    },
+    "DIRECT-49-HP M130f LaserJet" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "DIRECT-49-HP M130f LaserJet"
+    },
+    "DIRECT-66-HP OfficeJet Pro 8720" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622842",
+        "Longitude" : "-123.2451992"
+      },
+      "Password" : "",
+      "SSID" : "DIRECT-66-HP OfficeJet Pro 8720"
+    },
+    "DIRECT-8yM2020 Series" : {
+      "Coordinate" : {
+        "Latitude" : "49.2613829",
+        "Longitude" : "-123.24661587"
+      },
+      "Password" : "",
+      "SSID" : "DIRECT-8yM2020 Series"
+    },
+    "DIRECT-Ek-Android_1c63" : {
+      "Coordinate" : {
+        "Latitude" : "49.2623052",
+        "Longitude" : "-123.2452551"
+      },
+      "Password" : "",
+      "SSID" : "DIRECT-Ek-Android_1c63"
+    },
+    "DIRECT-INJIMMY-SURFACEmsML" : {
+      "Coordinate" : {
+        "Latitude" : "49.2623074",
+        "Longitude" : "-123.2452953"
+      },
+      "Password" : "",
+      "SSID" : "DIRECT-INJIMMY-SURFACEmsML"
+    },
+    "DIRECT-OOC460 Series" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "DIRECT-OOC460 Series"
+    },
+    "DIRECT-OQ-Android_1c63" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622844",
+        "Longitude" : "-123.2452353"
+      },
+      "Password" : "",
+      "SSID" : "DIRECT-OQ-Android_1c63"
+    },
+    "DIRECT-Oh-OnePlus 3" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "DIRECT-Oh-OnePlus 3"
+    },
+    "DIRECT-RM-OnePlus 3" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622833",
+        "Longitude" : "-123.2452935"
+      },
+      "Password" : "",
+      "SSID" : "DIRECT-RM-OnePlus 3"
+    },
+    "DIRECT-TJ-2A1B7001003233" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "DIRECT-TJ-2A1B7001003233"
+    },
+    "DIRECT-pj-Android_9c78" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "DIRECT-pj-Android_9c78"
+    },
+    "ESPap" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "ESPap"
+    },
+    "Giasson" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "Giasson"
+    },
+    "Gismondi Hair Care" : {
+      "Coordinate" : {
+        "Latitude" : "49.18765425",
+        "Longitude" : "-122.84901694"
+      },
+      "Password" : "",
+      "SSID" : "Gismondi Hair Care"
+    },
+    "Gordon's Office" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "Gordon's Office"
+    },
+    "HP-Print-02-Officejet 4630" : {
+      "Coordinate" : {
+        "Latitude" : "49.262297",
+        "Longitude" : "-123.245267"
+      },
+      "Password" : "",
+      "SSID" : "HP-Print-02-Officejet 4630"
+    },
+    "HP-Print-8E-Officejet Pro 8620" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622887",
+        "Longitude" : "-123.2452256"
+      },
+      "Password" : "",
+      "SSID" : "HP-Print-8E-Officejet Pro 8620"
+    },
+    "HUJ9KQK1" : {
+      "Coordinate" : {
+        "Latitude" : "49.1657303",
+        "Longitude" : "-122.8039024"
+      },
+      "Password" : "",
+      "SSID" : "HUJ9KQK1"
+    },
+    "Hackathon Demo" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "Hackathon Demo"
+    },
+    "HanPark" : {
+      "Coordinate" : {
+        "Latitude" : "49.2380475",
+        "Longitude" : "-123.0311387"
+      },
+      "Password" : "",
+      "SSID" : "HanPark"
+    },
+    "Ichibankan Express SFU" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "Ichibankan Express SFU"
+    },
+    "Jixing的 iPhone" : {
+      "Coordinate" : {
+        "Latitude" : "49.2623054",
+        "Longitude" : "-123.2453302"
+      },
+      "Password" : "",
+      "SSID" : "Jixing� iPhone"
+    },
+    "KT_GiGA_2G_683E" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "KT_GiGA_2G_683E"
+    },
+    "KT_GiGA_2G_7879" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "KT_GiGA_2G_7879"
+    },
+    "KT_WLAN_D73A" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "KT_WLAN_D73A"
+    },
+    "KT_WLAN_D73A_5GHz" : {
+      "Coordinate" : {
+        "Latitude" : "36.154016831624666",
+        "Longitude" : "128.3110938050894"
+      },
+      "Password" : "",
+      "SSID" : "KT_WLAN_D73A_5GHz"
+    },
+    "LQCAM5GHZ" : {
+      "Coordinate" : {
+        "Latitude" : "49.1901626",
+        "Longitude" : "-122.8497555"
+      },
+      "Password" : "",
+      "SSID" : "LQCAM5GHZ"
+    },
+    "Linksys00880" : {
+      "Coordinate" : {
+        "Latitude" : "49.262277",
+        "Longitude" : "-123.2452042"
+      },
+      "Password" : "",
+      "SSID" : "Linksys00880"
+    },
+    "Linksys00880_5GHz" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "Linksys00880_5GHz"
+    },
+    "Miniso" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "Miniso"
+    },
+    "MotionMetrics2GS" : {
+      "Coordinate" : {
+        "Latitude" : "49.26139773",
+        "Longitude" : "-123.24657617"
+      },
+      "Password" : "",
+      "SSID" : "MotionMetrics2GS"
+    },
+    "MotionMetrics5GS" : {
+      "Coordinate" : {
+        "Latitude" : "49.26190159",
+        "Longitude" : "-123.24587218"
+      },
+      "Password" : "",
+      "SSID" : "MotionMetrics5GS"
+    },
+    "NETGEAR-55" : {
+      "Coordinate" : {
+        "Latitude" : "50.0",
+        "Longitude" : "120.0"
+      },
+      "Password" : "",
+      "SSID" : "NETGEAR-55"
+    },
+    "NSA" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622826",
+        "Longitude" : "-123.2453215"
+      },
+      "Password" : "",
+      "SSID" : "NSA"
+    },
+    "NTGR_VMB_1406851337" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "NTGR_VMB_1406851337"
+    },
+    "Nemo@Guest" : {
+      "Coordinate" : {
+        "Latitude" : "49.261944248243346",
+        "Longitude" : "-122.75503094611544"
+      },
+      "Password" : "",
+      "SSID" : "Nemo@Guest"
+    },
+    "One Plus 3" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "One Plus 3"
+    },
+    "OnePlus 5" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622773",
+        "Longitude" : "-123.2452484"
+      },
+      "Password" : "",
+      "SSID" : "OnePlus 5"
+    },
+    "Portthru" : {
+      "Coordinate" : {
+        "Latitude" : "49.26123315",
+        "Longitude" : "-123.24680719"
+      },
+      "Password" : "",
+      "SSID" : "Portthru"
+    },
+    "RM-114045801609112576" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "RM-114045801609112576"
+    },
+    "RM-1194418458092485632" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "RM-1194418458092485632"
+    },
+    "RM-1590924132678618112" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622711",
+        "Longitude" : "-123.2452332"
+      },
+      "Password" : "",
+      "SSID" : "RM-1590924132678618112"
+    },
+    "RM-1704274091353925632" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622608",
+        "Longitude" : "-123.2453146"
+      },
+      "Password" : "",
+      "SSID" : "RM-1704274091353925632"
+    },
+    "RM-2075213822083588096" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "RM-2075213822083588096"
+    },
+    "RM-212545804314785792" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622629",
+        "Longitude" : "-123.2452017"
+      },
+      "Password" : "",
+      "SSID" : "RM-212545804314785792"
+    },
+    "RM-2657249424304919552" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622833",
+        "Longitude" : "-123.2451816"
+      },
+      "Password" : "",
+      "SSID" : "RM-2657249424304919552"
+    },
+    "RM-2714607255064958976" : {
+      "Coordinate" : {
+        "Latitude" : "49.2625573",
+        "Longitude" : "-123.2479688"
+      },
+      "Password" : "",
+      "SSID" : "RM-2714607255064958976"
+    },
+    "RM-3013317427835128832" : {
+      "Coordinate" : {
+        "Latitude" : "49.2623267",
+        "Longitude" : "-123.2453941"
+      },
+      "Password" : "",
+      "SSID" : "RM-3013317427835128832"
+    },
+    "RM-3161249851599130624" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622721",
+        "Longitude" : "-123.2452605"
+      },
+      "Password" : "",
+      "SSID" : "RM-3161249851599130624"
+    },
+    "RM-326588504835143680" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "RM-326588504835143680"
+    },
+    "RM-3454608045958253568" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622755",
+        "Longitude" : "-123.2452006"
+      },
+      "Password" : "",
+      "SSID" : "RM-3454608045958253568"
+    },
+    "RM-3951288441270395904" : {
+      "Coordinate" : {
+        "Latitude" : "49.2623052",
+        "Longitude" : "-123.2452551"
+      },
+      "Password" : "",
+      "SSID" : "RM-3951288441270395904"
+    },
+    "RM-4071576398758359040" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "RM-4071576398758359040"
+    },
+    "RM-4192372677090107392" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622608",
+        "Longitude" : "-123.2451915"
+      },
+      "Password" : "",
+      "SSID" : "RM-4192372677090107392"
+    },
+    "RM-4222961384623392768" : {
+      "Coordinate" : {
+        "Latitude" : "49.26218755",
+        "Longitude" : "-123.2455641"
+      },
+      "Password" : "",
+      "SSID" : "RM-4222961384623392768"
+    },
+    "RM-4229991350816275456" : {
+      "Coordinate" : {
+        "Latitude" : "49.2623408",
+        "Longitude" : "-123.2453095"
+      },
+      "Password" : "",
+      "SSID" : "RM-4229991350816275456"
+    },
+    "RM-4380878549591966720" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "RM-4380878549591966720"
+    },
+    "RM-484474288578582528" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "RM-484474288578582528"
+    },
+    "RM-4979997758472912896" : {
+      "Coordinate" : {
+        "Latitude" : "49.26290609",
+        "Longitude" : "-123.2458115"
+      },
+      "Password" : "",
+      "SSID" : "RM-4979997758472912896"
+    },
+    "RM-5305725072533680128" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622861",
+        "Longitude" : "-123.2452152"
+      },
+      "Password" : "",
+      "SSID" : "RM-5305725072533680128"
+    },
+    "RM-5351965513269575680" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622876",
+        "Longitude" : "-123.2452082"
+      },
+      "Password" : "",
+      "SSID" : "RM-5351965513269575680"
+    },
+    "RM-5964938906318654464" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "RM-5964938906318654464"
+    },
+    "RM-611169326287963136" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622788",
+        "Longitude" : "-123.2452938"
+      },
+      "Password" : "",
+      "SSID" : "RM-611169326287963136"
+    },
+    "RM-6150623284681335808" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "RM-6150623284681335808"
+    },
+    "RM-6255301059883969536" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622863",
+        "Longitude" : "-123.2452885"
+      },
+      "Password" : "",
+      "SSID" : "RM-6255301059883969536"
+    },
+    "RM-65103169414801408" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622773",
+        "Longitude" : "-123.2452484"
+      },
+      "Password" : "",
+      "SSID" : "RM-65103169414801408"
+    },
+    "RM-6712777546051701760" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622672",
+        "Longitude" : "-123.2451892"
+      },
+      "Password" : "",
+      "SSID" : "RM-6712777546051701760"
+    },
+    "RM-6848702813317847040" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622773",
+        "Longitude" : "-123.2452484"
+      },
+      "Password" : "",
+      "SSID" : "RM-6848702813317847040"
+    },
+    "RM-6943158216219935744" : {
+      "Coordinate" : {
+        "Latitude" : "49.26259431",
+        "Longitude" : "-123.24570991"
+      },
+      "Password" : "",
+      "SSID" : "RM-6943158216219935744"
+    },
+    "RM-7407607242891354112" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622726",
+        "Longitude" : "-123.2452325"
+      },
+      "Password" : "",
+      "SSID" : "RM-7407607242891354112"
+    },
+    "RM-7698386520601103360" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "RM-7698386520601103360"
+    },
+    "RM-7979825437424063488" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622842",
+        "Longitude" : "-123.245294"
+      },
+      "Password" : "",
+      "SSID" : "RM-7979825437424063488"
+    },
+    "RM-8066089908782884864" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622629",
+        "Longitude" : "-123.2452017"
+      },
+      "Password" : "",
+      "SSID" : "RM-8066089908782884864"
+    },
+    "RM-8536362642198383616" : {
+      "Coordinate" : {
+        "Latitude" : "49.2623024",
+        "Longitude" : "-123.2452366"
+      },
+      "Password" : "",
+      "SSID" : "RM-8536362642198383616"
+    },
+    "RM-8578629741209865216" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622672",
+        "Longitude" : "-123.2451892"
+      },
+      "Password" : "",
+      "SSID" : "RM-8578629741209865216"
+    },
+    "RM-8719317982128162816" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622833",
+        "Longitude" : "-123.2453214"
+      },
+      "Password" : "",
+      "SSID" : "RM-8719317982128162816"
+    },
+    "RM-9063071492017398784" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622833",
+        "Longitude" : "-123.2453214"
+      },
+      "Password" : "",
+      "SSID" : "RM-9063071492017398784"
+    },
+    "RM-9208294225777952768" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "RM-9208294225777952768"
+    },
+    "RM-PingTest" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622629",
+        "Longitude" : "-123.2452017"
+      },
+      "Password" : "",
+      "SSID" : "RM-PingTest"
+    },
+    "RM-testttt" : {
+      "Coordinate" : {
+        "Latitude" : "49.26229",
+        "Longitude" : "-123.245354"
+      },
+      "Password" : "",
+      "SSID" : "RM-testttt"
+    },
+    "Renaissance411" : {
+      "Coordinate" : {
+        "Latitude" : "49.2613829",
+        "Longitude" : "-123.24661587"
+      },
+      "Password" : "",
+      "SSID" : "Renaissance411"
+    },
+    "Renaissance411-guest" : {
+      "Coordinate" : {
+        "Latitude" : "49.2613829",
+        "Longitude" : "-123.24661587"
+      },
+      "Password" : "",
+      "SSID" : "Renaissance411-guest"
+    },
+    "RenaissanceBio" : {
+      "Coordinate" : {
+        "Latitude" : "49.26190159",
+        "Longitude" : "-123.24587218"
+      },
+      "Password" : "",
+      "SSID" : "RenaissanceBio"
+    },
+    "Rihao" : {
+      "Coordinate" : {
+        "Latitude" : "22.5305399",
+        "Longitude" : "113.9371987"
+      },
+      "Password" : "",
+      "SSID" : "Rihao"
+    },
+    "SETUP" : {
+      "Coordinate" : {
+        "Latitude" : "49.26190159",
+        "Longitude" : "-123.24587218"
+      },
+      "Password" : "",
+      "SSID" : "SETUP"
+    },
+    "SFU wifi ain't thicc enuf" : {
+      "Coordinate" : {
+        "Latitude" : "49.2623408",
+        "Longitude" : "-123.2453095"
+      },
+      "Password" : "",
+      "SSID" : "SFU wifi ain't thicc enuf"
+    },
+    "SFUNET" : {
+      "Coordinate" : {
+        "Latitude" : "49.186917",
+        "Longitude" : "-122.8491003"
+      },
+      "Password" : "",
+      "SSID" : "SFUNET"
+    },
+    "SFUNET-SECURE" : {
+      "Coordinate" : {
+        "Latitude" : "49.186917",
+        "Longitude" : "-122.8491003"
+      },
+      "Password" : "",
+      "SSID" : "SFUNET-SECURE"
+    },
+    "SHAW-17EAD0" : {
+      "Coordinate" : {
+        "Latitude" : "49.2380063",
+        "Longitude" : "-123.0279549"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-17EAD0"
+    },
+    "SHAW-221960" : {
+      "Coordinate" : {
+        "Latitude" : "49.2380063",
+        "Longitude" : "-123.0279549"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-221960"
+    },
+    "SHAW-233C80" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-233C80"
+    },
+    "SHAW-233C80-5G" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-233C80-5G"
+    },
+    "SHAW-2B41A0" : {
+      "Coordinate" : {
+        "Latitude" : "49.1657303",
+        "Longitude" : "-122.8039024"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-2B41A0"
+    },
+    "SHAW-2E922D" : {
+      "Coordinate" : {
+        "Latitude" : "49.2380063",
+        "Longitude" : "-123.0279549"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-2E922D"
+    },
+    "SHAW-2E922D-5G" : {
+      "Coordinate" : {
+        "Latitude" : "49.24021515",
+        "Longitude" : "-123.03123482"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-2E922D-5G"
+    },
+    "SHAW-2F1933" : {
+      "Coordinate" : {
+        "Latitude" : "50.0",
+        "Longitude" : "120.0"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-2F1933"
+    },
+    "SHAW-3CBFD0" : {
+      "Coordinate" : {
+        "Latitude" : "50.0",
+        "Longitude" : "120.0"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-3CBFD0"
+    },
+    "SHAW-3CFE20" : {
+      "Coordinate" : {
+        "Latitude" : "49.1657303",
+        "Longitude" : "-122.8039024"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-3CFE20"
+    },
+    "SHAW-466950" : {
+      "Coordinate" : {
+        "Latitude" : "49.1657303",
+        "Longitude" : "-122.8039024"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-466950"
+    },
+    "SHAW-466950-5G" : {
+      "Coordinate" : {
+        "Latitude" : "49.1657303",
+        "Longitude" : "-122.8039024"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-466950-5G"
+    },
+    "SHAW-6571FA" : {
+      "Coordinate" : {
+        "Latitude" : "49.24022469",
+        "Longitude" : "-123.03106561"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-6571FA"
+    },
+    "SHAW-6635BC" : {
+      "Coordinate" : {
+        "Latitude" : "50.0",
+        "Longitude" : "120.0"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-6635BC"
+    },
+    "SHAW-7601E0-5G" : {
+      "Coordinate" : {
+        "Latitude" : "49.278571",
+        "Longitude" : "-122.9147728"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-7601E0-5G"
+    },
+    "SHAW-830630-5G" : {
+      "Coordinate" : {
+        "Latitude" : "49.278571",
+        "Longitude" : "-122.9147728"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-830630-5G"
+    },
+    "SHAW-A34CA0" : {
+      "Coordinate" : {
+        "Latitude" : "50.0",
+        "Longitude" : "120.0"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-A34CA0"
+    },
+    "SHAW-A39BC0" : {
+      "Coordinate" : {
+        "Latitude" : "49.1657303",
+        "Longitude" : "-122.8039024"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-A39BC0"
+    },
+    "SHAW-A61340" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-A61340"
+    },
+    "SHAW-A65D60" : {
+      "Coordinate" : {
+        "Latitude" : "49.24021515",
+        "Longitude" : "-123.03123482"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-A65D60"
+    },
+    "SHAW-AB0250" : {
+      "Coordinate" : {
+        "Latitude" : "50.0",
+        "Longitude" : "120.0"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-AB0250"
+    },
+    "SHAW-BBF200" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-BBF200"
+    },
+    "SHAW-BBF200-5G" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-BBF200-5G"
+    },
+    "SHAW-BE8DB0" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-BE8DB0"
+    },
+    "SHAW-BE8DB0-5G" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-BE8DB0-5G"
+    },
+    "SHAW-C2FA00" : {
+      "Coordinate" : {
+        "Latitude" : "49.278571",
+        "Longitude" : "-122.9147728"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-C2FA00"
+    },
+    "SHAW-C6B460" : {
+      "Coordinate" : {
+        "Latitude" : "50.0",
+        "Longitude" : "120.0"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-C6B460"
+    },
+    "SHAW-C6F0C0" : {
+      "Coordinate" : {
+        "Latitude" : "49.24014949",
+        "Longitude" : "-123.03138372"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-C6F0C0"
+    },
+    "SHAW-D74AF3" : {
+      "Coordinate" : {
+        "Latitude" : "50.0",
+        "Longitude" : "120.0"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-D74AF3"
+    },
+    "SHAW-DF4420" : {
+      "Coordinate" : {
+        "Latitude" : "49.261944248243346",
+        "Longitude" : "-122.75503094611544"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-DF4420"
+    },
+    "SHAW-E27490" : {
+      "Coordinate" : {
+        "Latitude" : "50.0",
+        "Longitude" : "120.0"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-E27490"
+    },
+    "SHAW-E3DE30" : {
+      "Coordinate" : {
+        "Latitude" : "49.1657303",
+        "Longitude" : "-122.8039024"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-E3DE30"
+    },
+    "SHAW-FBF7BD-5G" : {
+      "Coordinate" : {
+        "Latitude" : "49.278571",
+        "Longitude" : "-122.9147728"
+      },
+      "Password" : "",
+      "SSID" : "SHAW-FBF7BD-5G"
+    },
+    "SK_WiFi071F" : {
+      "Coordinate" : {
+        "Latitude" : "36.154016831624666",
+        "Longitude" : "128.3110938050894"
+      },
+      "Password" : "",
+      "SSID" : "SK_WiFi071F"
+    },
+    "SM-G935W87413" : {
+      "Coordinate" : {
+        "Latitude" : "49.2623408",
+        "Longitude" : "-123.2453095"
+      },
+      "Password" : "",
+      "SSID" : "SM-G935W87413"
+    },
+    "SM-G935W89074" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "SM-G935W89074"
+    },
+    "SM-G955W8060" : {
+      "Coordinate" : {
+        "Latitude" : "49.2622765",
+        "Longitude" : "-123.2452762"
+      },
+      "Password" : "",
+      "SSID" : "SM-G955W8060"
+    },
+    "STR_WLAN_LOCAL" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "STR_WLAN_LOCAL"
+    },
+    "SUBWAY Guest" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "SUBWAY Guest"
+    },
+    "SW8916" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "SW8916"
+    },
+    "Sean Crowe's Wi-Fi Network" : {
+      "Coordinate" : {
+        "Latitude" : "49.26220166",
+        "Longitude" : "-123.24559855"
+      },
+      "Password" : "",
+      "SSID" : "Sean Crowe's Wi-Fi Network"
+    },
+    "ShawOpen" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "ShawOpen"
+    },
+    "ShawPasspoint" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "ShawPasspoint"
+    },
+    "Sin" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "Sin"
+    },
+    "SquirrelBrew" : {
+      "Coordinate" : {
+        "Latitude" : "49.1901626",
+        "Longitude" : "-122.8497555"
+      },
+      "Password" : "",
+      "SSID" : "SquirrelBrew"
+    },
+    "Starbucks WiFi" : {
+      "Coordinate" : {
+        "Latitude" : "49.186917",
+        "Longitude" : "-122.8491003"
+      },
+      "Password" : "",
+      "SSID" : "Starbucks WiFi"
+    },
+    "TELUS Passpoint" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "TELUS Passpoint"
+    },
+    "TELUS0173" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "TELUS0173"
+    },
+    "TELUS0582-5G" : {
+      "Coordinate" : {
+        "Latitude" : "49.24014949",
+        "Longitude" : "-123.03138372"
+      },
+      "Password" : "",
+      "SSID" : "TELUS0582-5G"
+    },
+    "TELUS1110" : {
+      "Coordinate" : {
+        "Latitude" : "49.1657303",
+        "Longitude" : "-122.8039024"
+      },
+      "Password" : "",
+      "SSID" : "TELUS1110"
+    },
+    "TELUS1180" : {
+      "Coordinate" : {
+        "Latitude" : "49.2380063",
+        "Longitude" : "-123.0279549"
+      },
+      "Password" : "",
+      "SSID" : "TELUS1180"
+    },
+    "TELUS1224" : {
+      "Coordinate" : {
+        "Latitude" : "49.261944248243346",
+        "Longitude" : "-122.75503094611544"
+      },
+      "Password" : "",
+      "SSID" : "TELUS1224"
+    },
+    "TELUS1248" : {
+      "Coordinate" : {
+        "Latitude" : "49.18765425",
+        "Longitude" : "-122.84901694"
+      },
+      "Password" : "",
+      "SSID" : "TELUS1248"
+    },
+    "TELUS2281" : {
+      "Coordinate" : {
+        "Latitude" : "50.0",
+        "Longitude" : "120.0"
+      },
+      "Password" : "",
+      "SSID" : "TELUS2281"
+    },
+    "TELUS2585" : {
+      "Coordinate" : {
+        "Latitude" : "50.0",
+        "Longitude" : "120.0"
+      },
+      "Password" : "",
+      "SSID" : "TELUS2585"
+    },
+    "TELUS2907" : {
+      "Coordinate" : {
+        "Latitude" : "49.261944248243346",
+        "Longitude" : "-122.75503094611544"
+      },
+      "Password" : "",
+      "SSID" : "TELUS2907"
+    },
+    "TELUS3007" : {
+      "Coordinate" : {
+        "Latitude" : "49.1657303",
+        "Longitude" : "-122.8039024"
+      },
+      "Password" : "",
+      "SSID" : "TELUS3007"
+    },
+    "TELUS3855" : {
+      "Coordinate" : {
+        "Latitude" : "50.0",
+        "Longitude" : "120.0"
+      },
+      "Password" : "",
+      "SSID" : "TELUS3855"
+    },
+    "TELUS3935-5G" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "TELUS3935-5G"
+    },
+    "TELUS4835-5G" : {
+      "Coordinate" : {
+        "Latitude" : "49.24021515",
+        "Longitude" : "-123.03123482"
+      },
+      "Password" : "",
+      "SSID" : "TELUS4835-5G"
+    },
+    "TELUS4961" : {
+      "Coordinate" : {
+        "Latitude" : "50.0",
+        "Longitude" : "120.0"
+      },
+      "Password" : "",
+      "SSID" : "TELUS4961"
+    },
+    "TELUS5080" : {
+      "Coordinate" : {
+        "Latitude" : "49.1657303",
+        "Longitude" : "-122.8039024"
+      },
+      "Password" : "",
+      "SSID" : "TELUS5080"
+    },
+    "TELUS8210" : {
+      "Coordinate" : {
+        "Latitude" : "49.18699265",
+        "Longitude" : "-122.84861042"
+      },
+      "Password" : "",
+      "SSID" : "TELUS8210"
+    },
+    "TELUS9071" : {
+      "Coordinate" : {
+        "Latitude" : "49.2380063",
+        "Longitude" : "-123.0279549"
+      },
+      "Password" : "",
+      "SSID" : "TELUS9071"
+    },
+    "TOCHTECH" : {
+      "Coordinate" : {
+        "Latitude" : "49.18765425",
+        "Longitude" : "-122.84901694"
+      },
+      "Password" : "",
+      "SSID" : "TOCHTECH"
+    },
+    "TOCHTECH_5G" : {
+      "Coordinate" : {
+        "Latitude" : "49.18765425",
+        "Longitude" : "-122.84901694"
+      },
+      "Password" : "",
+      "SSID" : "TOCHTECH_5G"
+    },
+    "Tong" : {
+      "Coordinate" : {
+        "Latitude" : "49.24021515",
+        "Longitude" : "-123.03123482"
+      },
+      "Password" : "",
+      "SSID" : "Tong"
+    },
+    "TongTong" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "TongTong"
+    },
+    "Tongs" : {
+      "Coordinate" : {
+        "Latitude" : "49.24021515",
+        "Longitude" : "-123.03123482"
+      },
+      "Password" : "",
+      "SSID" : "Tongs"
+    },
+    "U Net636F" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "U+Net636F"
+    },
+    "U Net7924" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542",
+        "Longitude" : "128.3109357"
+      },
+      "Password" : "",
+      "SSID" : "U+Net7924"
+    },
+    "U NetA01B" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "U+NetA01B"
+    },
+    "Virus666" : {
+      "Coordinate" : {
+        "Latitude" : "49.24021515",
+        "Longitude" : "-123.03123482"
+      },
+      "Password" : "",
+      "SSID" : "Virus666"
+    },
+    "Virus666-guest" : {
+      "Coordinate" : {
+        "Latitude" : "49.24021515",
+        "Longitude" : "-123.03123482"
+      },
+      "Password" : "",
+      "SSID" : "Virus666-guest"
+    },
+    "XIII" : {
+      "Coordinate" : {
+        "Latitude" : "49.1657303",
+        "Longitude" : "-122.8039024"
+      },
+      "Password" : "",
+      "SSID" : "XIII"
+    },
+    "Xerox" : {
+      "Coordinate" : {
+        "Latitude" : "49.26123315",
+        "Longitude" : "-123.24680719"
+      },
+      "Password" : "",
+      "SSID" : "Xerox"
+    },
+    "YOGOOD Surrey" : {
+      "Coordinate" : {
+        "Latitude" : "49.187096",
+        "Longitude" : "-122.8491751"
+      },
+      "Password" : "",
+      "SSID" : "YOGOOD Surrey"
+    },
+    "Yellow Cab Guest" : {
+      "Coordinate" : {
+        "Latitude" : "49.26190159",
+        "Longitude" : "-123.24587218"
+      },
+      "Password" : "",
+      "SSID" : "Yellow Cab Guest"
+    },
+    "Zebra's home" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "Zebra's home"
+    },
+    "Zebra's home fast" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "Zebra's home fast"
+    },
+    "apilates" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "apilates"
+    },
+    "convergenti-5G" : {
+      "Coordinate" : {
+        "Latitude" : "49.26139773",
+        "Longitude" : "-123.24657617"
+      },
+      "Password" : "",
+      "SSID" : "convergenti-5G"
+    },
+    "dalue" : {
+      "Coordinate" : {
+        "Latitude" : "22.5305399",
+        "Longitude" : "113.9371987"
+      },
+      "Password" : "",
+      "SSID" : "dalue"
+    },
+    "dawoaben" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "dawoaben"
+    },
+    "dhdmsfks" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "dhdmsfks"
+    },
+    "dlink-0410" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "dlink-0410"
+    },
+    "dlink-B724" : {
+      "Coordinate" : {
+        "Latitude" : "49.186917",
+        "Longitude" : "-122.8491003"
+      },
+      "Password" : "",
+      "SSID" : "dlink-B724"
+    },
+    "dlink-B724-5GHz" : {
+      "Coordinate" : {
+        "Latitude" : "49.186917",
+        "Longitude" : "-122.8491003"
+      },
+      "Password" : "",
+      "SSID" : "dlink-B724-5GHz"
+    },
+    "easvan" : {
+      "Coordinate" : {
+        "Latitude" : "49.26123315",
+        "Longitude" : "-123.24680719"
+      },
+      "Password" : "",
+      "SSID" : "easvan"
+    },
+    "easvan 5g" : {
+      "Coordinate" : {
+        "Latitude" : "49.26123315",
+        "Longitude" : "-123.24680719"
+      },
+      "Password" : "",
+      "SSID" : "easvan 5g"
+    },
+    "eds2g" : {
+      "Coordinate" : {
+        "Latitude" : "49.18699265",
+        "Longitude" : "-122.84861042"
+      },
+      "Password" : "",
+      "SSID" : "eds2g"
+    },
+    "eds5g" : {
+      "Coordinate" : {
+        "Latitude" : "49.18765425",
+        "Longitude" : "-122.84901694"
+      },
+      "Password" : "",
+      "SSID" : "eds5g"
+    },
+    "eduroam" : {
+      "Coordinate" : {
+        "Latitude" : "49.2515364",
+        "Longitude" : "-123.001743"
+      },
+      "Password" : "",
+      "SSID" : "eduroam"
+    },
+    "fhguest" : {
+      "Coordinate" : {
+        "Latitude" : "49.18765425",
+        "Longitude" : "-122.84901694"
+      },
+      "Password" : "",
+      "SSID" : "fhguest"
+    },
+    "fomwks's Network" : {
+      "Coordinate" : {
+        "Latitude" : "49.2623209",
+        "Longitude" : "-123.2453731"
+      },
+      "Password" : "",
+      "SSID" : "fomwks's Network"
+    },
+    "guardian" : {
+      "Coordinate" : {
+        "Latitude" : "49.187096",
+        "Longitude" : "-122.8491751"
+      },
+      "Password" : "",
+      "SSID" : "guardian"
+    },
+    "huzi" : {
+      "Coordinate" : {
+        "Latitude" : "49.2781467",
+        "Longitude" : "-122.9120695"
+      },
+      "Password" : "",
+      "SSID" : "huzi"
+    },
+    "iPort-XT Network" : {
+      "Coordinate" : {
+        "Latitude" : "49.26123315",
+        "Longitude" : "-123.24680719"
+      },
+      "Password" : "",
+      "SSID" : "iPort-XT Network"
+    },
+    "iSQUIRREL-5G" : {
+      "Coordinate" : {
+        "Latitude" : "49.2515364",
+        "Longitude" : "-123.001743"
+      },
+      "Password" : "",
+      "SSID" : "iSQUIRREL-5G"
+    },
+    "iptime" : {
+      "Coordinate" : {
+        "Latitude" : "36.154016831624666",
+        "Longitude" : "128.3110938050894"
+      },
+      "Password" : "",
+      "SSID" : "iptime"
+    },
+    "iptime_extender" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542",
+        "Longitude" : "128.3109357"
+      },
+      "Password" : "",
+      "SSID" : "iptime_extender"
+    },
+    "kopp" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "kopp"
+    },
+    "longyan" : {
+      "Coordinate" : {
+        "Latitude" : "22.5305399",
+        "Longitude" : "113.9371987"
+      },
+      "Password" : "",
+      "SSID" : "longyan"
+    },
+    "maxin" : {
+      "Coordinate" : {
+        "Latitude" : "49.1657303",
+        "Longitude" : "-122.8039024"
+      },
+      "Password" : "",
+      "SSID" : "maxin"
+    },
+    "micros3700" : {
+      "Coordinate" : {
+        "Latitude" : "49.18765425",
+        "Longitude" : "-122.84901694"
+      },
+      "Password" : "",
+      "SSID" : "micros3700"
+    },
+    "molecularyouHQ" : {
+      "Coordinate" : {
+        "Latitude" : "49.26127822",
+        "Longitude" : "-123.24672041"
+      },
+      "Password" : "",
+      "SSID" : "molecularyouHQ"
+    },
+    "neotech_5G" : {
+      "Coordinate" : {
+        "Latitude" : "36.154016831624666",
+        "Longitude" : "128.3110938050894"
+      },
+      "Password" : "",
+      "SSID" : "neotech_5G"
+    },
+    "noetech" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "noetech"
+    },
+    "nwhacks2018" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "hacksnw123",
+      "SSID" : "nwhacks2018"
+    },
+    "olleh_GiGA_WiFi_608C" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "olleh_GiGA_WiFi_608C"
+    },
+    "olleh_WiFi_608C" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "olleh_WiFi_608C"
+    },
+    "olleh_WiFi_79AC" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "olleh_WiFi_79AC"
+    },
+    "olleh_WiFi_E5D6" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "olleh_WiFi_E5D6"
+    },
+    "phsa-staff" : {
+      "Coordinate" : {
+        "Latitude" : "49.18765425",
+        "Longitude" : "-122.84901694"
+      },
+      "Password" : "",
+      "SSID" : "phsa-staff"
+    },
+    "portthru" : {
+      "Coordinate" : {
+        "Latitude" : "49.186917",
+        "Longitude" : "-122.8491003"
+      },
+      "Password" : "",
+      "SSID" : "portthru"
+    },
+    "scrapper" : {
+      "Coordinate" : {
+        "Latitude" : "49.2380063",
+        "Longitude" : "-123.0279549"
+      },
+      "Password" : "",
+      "SSID" : "scrapper"
+    },
+    "telecop" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542",
+        "Longitude" : "128.3109357"
+      },
+      "Password" : "",
+      "SSID" : "telecop"
+    },
+    "ubcprivate" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "ubcprivate"
+    },
+    "ubcsecure" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "ubcsecure"
+    },
+    "ubcvisitor" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "ubcvisitor"
+    },
+    "unilangs" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "unilangs"
+    },
+    "vch" : {
+      "Coordinate" : {
+        "Latitude" : "49.18765425",
+        "Longitude" : "-122.84901694"
+      },
+      "Password" : "",
+      "SSID" : "vch"
+    },
+    "xyz123" : {
+      "Coordinate" : {
+        "Latitude" : "0.0",
+        "Longitude" : "0.0"
+      },
+      "Password" : "",
+      "SSID" : "xyz123"
+    },
+    "yixing_home" : {
+      "Coordinate" : {
+        "Latitude" : "22.5305399",
+        "Longitude" : "113.9371987"
+      },
+      "Password" : "",
+      "SSID" : "yixing_home"
+    },
+    "zchy5g" : {
+      "Coordinate" : {
+        "Latitude" : "22.5305399",
+        "Longitude" : "113.9371987"
+      },
+      "Password" : "",
+      "SSID" : "zchy5g"
+    },
+    "ìì°ë¦¬" : {
+      "Coordinate" : {
+        "Latitude" : "36.1542229",
+        "Longitude" : "128.3110429"
+      },
+      "Password" : "",
+      "SSID" : "���"
+    }
+  }
+}
